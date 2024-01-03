@@ -17,6 +17,8 @@ description: Our current official devices
 
 :iphone: [Mi 9 (cepheus)](mi/cepheus.md)
 
+:iphone: [Pocophone F1 (beryllium)](mi/beryllium.md)
+
 :iphone: [Poco F3/K40/Mi 11X (alioth/aliothin)](mi/alioth.md)
 
 :iphone: [Poco F5, Redmi Note 12 Turbo (marble)](mi/marble.md)
@@ -27,7 +29,7 @@ description: Our current official devices
 
 :iphone: [Redmi Note 5 Pro (whyred)](mi/whyred.md)
 
-:iphone: [Redmi Note 10 PRO  (sweet)](mi/sweet.md)
+:iphone: [Redmi Note 10 PRO (sweet)](mi/sweet.md)
 
 :iphone: [Redmi Note 11 (spes)](mi/spes.md)
 
